@@ -1,6 +1,6 @@
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat.png?raw=true" alt="Cyclone" width="10%" style="max-width: 100%;">
 
-Hi✋!
+Hi Everymeow✋!
 <br>I'm *Abdul Ghofur Almiqbadi*.</br>
 
 - Interested in all things technology, photography and videography.
